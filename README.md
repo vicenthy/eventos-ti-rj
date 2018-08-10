@@ -4,7 +4,7 @@ Este repositório é um calendário colaborativo de eventos de TI que estão rol
 
 ## Acessando o Calendário
 
-Basta acessar o [board do projeto](https://github.com/hi-hi-ray/eventos-ti-rj/projects).
+Basta acessar o [board do projeto](https://github.com/hi-hi-ray/eventos-ti-rj/projects) e escolher se você deseja a visão geral ou filtrada.
 
 ## Contribuindo com um evento
 
