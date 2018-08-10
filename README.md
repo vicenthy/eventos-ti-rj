@@ -34,4 +34,4 @@ Aceitamos pull requests! :)
 
 Crie uma _issue_ ou então mande um e-mail para dutra.raysa@gmail.com.
 
-##### Esse repositório foi baseado no [eventos-ti](https://github.com/danicat/eventos-ti) criado pela (Daniela Petruzalek)[https://github.com/danicat].
+##### Esse repositório foi baseado no [eventos-ti](https://github.com/danicat/eventos-ti) criado pela [Daniela Petruzalek](https://github.com/danicat).
