@@ -8,7 +8,7 @@ Basta acessar o [board do projeto](https://github.com/hi-hi-ray/eventos-ti-rj/pr
 
 ## Contribuindo com um evento
 
-Para criar um evento basta criar um issue com o seguinte formato:
+Para criar um evento você pode utilizar o [modelo](https://github.com/hi-hi-ray/eventos-ti-rj/issues/new/choose) que já criamos para você ou basta criar um issue com o seguinte formato:
 
 Título da issue: 
 
@@ -25,6 +25,10 @@ Descrição da issue:
 ```
 
 Exemplo: [Issue #1](https://github.com/hi-hi-ray/eventos-ti-rj/issues/1)
+
+## Labels
+
+Para ajudar o pessoal com a pesquisa de assuntos você pode inserir na sua Issue uma label, caso não exista um sobre o assunto do seu evento, sinta-se a vontade para criar.
 
 ## Contribuindo com o Projeto
 
