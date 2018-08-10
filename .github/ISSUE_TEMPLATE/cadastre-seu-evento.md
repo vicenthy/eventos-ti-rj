@@ -8,7 +8,7 @@ about: 'DD/MM/AAAA: Título do Evento'
 *Horário*: XX:XX
 *URL*: http://www.example.com
 *Observações*: Deve levar RG
-*Descrição*:
+*Descrição*: Evento maravilhoso que irá acontecer
 
 
 Associar a issue ao projeto para aparecer o card no board (https://github.com/hi-hi-ray/eventos-rj/projects/)
