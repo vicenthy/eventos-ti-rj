@@ -24,7 +24,7 @@ Descrição da issue:
 *Descrição*: Evento maravilhoso que irá acontecer
 ```
 
-Exemplo: [Issue #1](https://github.com/hi-hi-ray/eventos-rj/issues/1)
+Exemplo: [Issue #1](https://github.com/hi-hi-ray/eventos-ti-rj/issues/1)
 
 ## Contribuindo com o Projeto
 
