@@ -17,9 +17,11 @@ Título da issue:
 Descrição da issue:
 
 ```
-Local: Cidade-UF
-URL: http://www.example.com
-Observações: quaisquer notas relevantes
+*Local*: Rua do exemplo
+*Horário*: XX:XX
+*URL*: http://www.example.com
+*Observações*: Deve levar RG
+*Descrição*: Evento maravilhoso que irá acontecer
 ```
 
 Exemplo: [Issue #3]()
