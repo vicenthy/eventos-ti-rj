@@ -1,6 +1,6 @@
 ---
 name: Cadastre seu evento
-about: 'DD/MM/AAAA: Título do Evento'
+about: 'Não se esqueça de usar como título: DD/MM/AAAA: Título do Evento '
 
 ---
 
